@@ -1,0 +1,9 @@
+{
+    "name": "Made For You Button",
+    "description": "A Made For You button in the top bar, beside your custom app icons.",
+    "preview": "screenshots/preview.jpg",
+    "main": "made-for-you-button.js",
+    "readme": "README.md",
+    "authors": [{ "name": "codebespawler", "url": "https://github.com/codebespawler" }],
+    "tags": ["navigation", "made for you"]
+}
