@@ -20,6 +20,17 @@ A **Made For You** button for [Spicetify](https://spicetify.app). It sits in Spo
    spicetify apply
    ```
 
+## Uninstall
+
+If you installed it from Marketplace, open Marketplace, find Made For You Button and click **Remove**.
+
+If you installed it yourself, run:
+```
+spicetify config extensions made-for-you-button.js-
+spicetify apply
+```
+The `-` at the end takes it off your extensions list. You can then delete `made-for-you-button.js` from your `Extensions` folder.
+
 ## Requirements
 
 Tested on Spotify 1.3.6 with Spicetify 2.46.
